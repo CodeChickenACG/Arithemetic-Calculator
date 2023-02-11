@@ -1,2 +1,2 @@
 # Just-A-Calculator
-A project I do during my freshmen year of college. Really simple, just a record of my first executable program.
+A Simple Arithmetic Calculator with a User-Friendly Graphical User Interface (GUI).
